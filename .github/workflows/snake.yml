@@ -1,6 +1,9 @@
 name: Animacion de contribuciones
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: "15 3 * * *"
   workflow_dispatch:
