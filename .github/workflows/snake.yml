@@ -22,6 +22,10 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/snake-azul.svg?palette=github-dark&color_snake=#3B82F6&color_dots=#161B22,#0E2A52,#1A4A8F,#2563EB,#60A5FA
+
+      - name: Fondo oscuro para la serpiente azul
+        run: sudo sed -i '0,/<svg[^>]*>/s//&<rect x="-1000" y="-1000" width="4000" height="4000" fill="#0B0F14"\/>/' dist/snake-azul.svg
 
       - name: Publicar animacion
         uses: crazy-max/ghaction-github-pages@v3.1.0

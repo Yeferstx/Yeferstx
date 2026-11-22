@@ -1,52 +1,21 @@
 <div align="center">
-  <img src="assets/yefer-banner.webp" alt="Hola, soy Yefer. Robot saludando sobre un fondo oscuro." width="100%" />
-</div>
 
-<div align="center">
-  <a href="https://github.com/Yeferstx">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3300&pause=1100&color=60A5FA&center=true&vCenter=true&width=600&lines=Desarrollo+web+y+aplicaciones;Aprendiendo%2C+creando+y+mejorando;Ideas+que+se+convierten+en+proyectos" alt="Texto animado de presentación" />
-  </a>
-</div>
+<img src="assets/banner.svg" width="100%" alt="Hola, soy Yefer. Robot sentado saludando sobre una cuadrícula oscura." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3300&pause=1100&color=3B82F6&background=0B0F14&center=true&vCenter=true&width=860&height=56&lines=Desarrollo+web+y+aplicaciones;Aprendiendo%2C+creando+y+mejorando;Ideas+que+se+convierten+en+proyectos" width="100%" alt="Desarrollo web y aplicaciones" />
+<img src="assets/sobre-mi.svg" width="100%" alt="Soy Yeferson Najar, estudiante de Análisis y Desarrollo de Software en el SENA. Yopal, Casanare, Colombia." />
+<img src="assets/tecnologias.svg" width="100%" alt="Tecnologías: HTML, CSS, JavaScript, TypeScript, Angular, Python, Git y GitHub" />
+<img src="assets/proyectos.svg" width="100%" alt="Proyectos: Sava, AsistIA y XchanGo" />
+<img src="assets/titulo-actividad.svg" width="100%" alt="Mi actividad en GitHub" />
 
-### Un poco sobre mí
+<img src="https://github-readme-stats.vercel.app/api?username=Yeferstx&show_icons=true&locale=es&bg_color=101722&border_color=1E293B&title_color=F5F5F5&text_color=C9D1D9&icon_color=3B82F6&border_radius=10" width="49%" alt="Estadísticas de GitHub de Yefer" />
+<img src="assets/lenguajes.svg" width="49%" alt="Lenguajes en mis proyectos" />
 
-Soy **Yeferson Najar**, estudiante de Análisis y Desarrollo de Software en el **SENA**. Me interesa crear sitios web y aplicaciones que sean útiles, intuitivas y estén bien diseñadas. Disfruto aprender nuevas tecnologías y mejorar cada proyecto que hago.
+<img src="assets/titulo-contribuciones.svg" width="100%" alt="Mis contribuciones" />
+<img src="https://raw.githubusercontent.com/Yeferstx/Yeferstx/output/snake-azul.svg" width="100%" alt="Serpiente animada recorriendo mis contribuciones" />
 
-- 📍 Yopal, Casanare, Colombia
-- 💻 Desarrollo web y de aplicaciones
-- 🎯 Mi objetivo: seguir aprendiendo y construir proyectos cada vez mejores
+<br /><br />
 
-### Tecnologías con las que trabajo y aprendo
+<a href="https://github.com/Yeferstx?tab=repositories"><img src="assets/iconos/boton-repos.svg" height="44" alt="Mis repositorios" /></a>
+<a href="https://github.com/Yeferstx/Sava"><img src="assets/iconos/boton-sava.svg" height="44" alt="Ver Sava" /></a>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,python,git,github&perline=8" alt="HTML, CSS, JavaScript, TypeScript, Angular, Python, Git y GitHub" />
-</p>
-
-### Proyectos
-
-| Proyecto | ¿De qué trata? |
-| --- | --- |
-| **Sava** | Aplicación para apoyar a pequeños negocios de Casanare con sus ventas y organización. |
-| **AsistIA** | Sistema de asistencia automatizada con reconocimiento facial y notificaciones. |
-| **XchanGo** | Plataforma para intercambiar artículos mediante trueques. |
-
-### Mi actividad en GitHub
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yeferstx&show_icons=true&theme=transparent&title_color=60A5FA&text_color=9CA3AF&icon_color=60A5FA&hide_border=true" alt="Estadísticas de GitHub de Yefer" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeferstx&layout=compact&theme=transparent&title_color=60A5FA&text_color=9CA3AF&hide_border=true" alt="Lenguajes más utilizados en GitHub" />
-</div>
-
-### Mis contribuciones
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yeferstx/Yeferstx/output/github-contribution-grid-snake-dark.svg?v=1" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yeferstx/Yeferstx/output/github-contribution-grid-snake.svg?v=1" />
-  <img alt="Serpiente animada recorriendo mis contribuciones" src="https://raw.githubusercontent.com/Yeferstx/Yeferstx/output/github-contribution-grid-snake.svg?v=1" width="100%" />
-</picture>
-
----
-
-<div align="center">
-  <a href="https://yeferstack.github.io">Mi portafolio web</a> · <a href="https://github.com/Yeferstx?tab=repositories">Mis repositorios</a>
 </div>
